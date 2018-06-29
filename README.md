@@ -1,6 +1,8 @@
 # Instagram-Photo-Downloader
 A python script to download all photos of the person whom you follow
 
+![Screenshot](InstaScreenshot.jpg)
+
 Use it for personal use only.
 
 Do not misuse.
