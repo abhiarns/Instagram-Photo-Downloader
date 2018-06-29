@@ -37,7 +37,7 @@ def scrollDownAndGather():
             break
         lastHeight = newHeight
 
-    data = driver.find_elements_by_xpath('//div[@class="_4rbun"]/img')
+    data = driver.find_elements_by_xpath('//div[@class="KL4Bh"]/img')
     if(len(data) != noOfPosts):
         scrollDownAndGather()
     else:
